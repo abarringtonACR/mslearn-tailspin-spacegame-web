@@ -11,7 +11,7 @@ resources :
   #Required
   - repository : azureSharedTemplates
     type : github
-    endpoint : ADOCS-training-part1
+    endpoint : abarringtonACR
     name : ILiuACR/shared-azure-pipeline-templates
     branch : master
  
